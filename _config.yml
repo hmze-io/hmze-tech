@@ -1,12 +1,12 @@
 website_url: /
 title: HMZE
-description: In diesem Podcast unterhalten sich Andreas Wolff, Sebastian Heide-Meyer zu Erpen und André Neubauer über Technologie und Leadership, denn ”Technology is a People Business”.
+description: Beyond Vibe Coding - die Zukunft der Softwareentwicklung
 feed_url: feed/
 feed_lang: de
 feed_since: Fri, 05 Feb 2021 00:00 +0000
 logo: /assets/img/logo.jpeg
-feed_owner: Andreas Wolff, Sebastian Heide-Meyer zu Erpen und André Neubauer
-feed_contact: hmzepodcast@googlemail.com
+feed_owner: Sebastian Heide-Meyer zu Erpen und André Neubauer
+feed_contact: podcast@hmze.tech
 
 remote_theme: devpg/minimal
 color-scheme: dark
