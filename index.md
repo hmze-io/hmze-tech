@@ -8,7 +8,7 @@ layout: custom
     <span><a href="https://open.spotify.com/show/4z2WgPzv2tXcYMHcmdnwVZ"><img src="/assets/img/Spotify.svg" alt="Spotify" /></a></span>
     <span><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2htemUvZmVlZC54bWw"><img src="/assets/img/GooglePodcasts.png" alt="Google Podcasts" /></a></span>
     <span><a href="https://podcasts.apple.com/de/podcast/hmze/id1552441029"><img src="/assets/img/ApplePodcasts.svg" alt="Apple Podcasts" /></a></span>
-    <span><a href="{{ site.feed_url | absolute_url }}"><img src="/assets/img/RSS.png" alt="RSS" class="logo" /></a></span>
+    <span><a href="https://anchor.fm/s/10dff5920/podcast/rss"><img src="/assets/img/RSS.png" alt="RSS" class="logo" /></a></span>
   </div>
 </section>
 
